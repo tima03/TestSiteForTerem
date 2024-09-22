@@ -1,0 +1,21 @@
+.box {
+    border: 1px solid black;
+    padding: 20px;
+    }
+  
+  .color1 { background-color: #ff6e7a; } 
+  .color2 { background-color: #6bfa8d; } 
+  .color3 { background-color: #70e5fa; }
+  .Form {background-color: blueviolet;}
+  .btn-formopen {background-color: aqua;}
+  .dotted-border {
+    border-style: dotted;
+  }
+  
+  @media (max-width: 767px) {
+    .row > div {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+}
+  
