@@ -28,10 +28,10 @@
 ### Шаги установки:
 
 1. Склонируйте репозиторий:
-   git clone https://github.com/вашлогин/terem-test-assignment.git
+   git clone https://github.com/tima03/TestSiteForTerem.git
 
 2. Перейдите в директорию проекта:
-   cd terem-test-assignment
+   cd TestSiteForTerem
 
 3. Убедитесь, что ваша конфигурация **Apache** и **PHP** соответствует требуемым версиям (Apache 2.4 и PHP 8.1).
 
